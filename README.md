@@ -22,8 +22,8 @@ Here are some of the technologies I have been working with:
 [![My Skills](https://skillicons.dev/icons?i=aws,nextjs,mongodb,azure)](https://skillicons.dev)
 
 - AWS
-- Mongo DB
 - Next.js
+- MongoDB
 - Microsoft Azure
 
 ## 🐱‍👤 Hobbies / Interests 

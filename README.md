@@ -19,10 +19,9 @@ Here are some of the technologies I have been working with:
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ## 🌱 What I'm currently learning and studying:
-- AWS Cloud Services [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-- Next.js [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-- MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-- Microsoft Azure [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,nextjs,mongodb,azure)](https://skillicons.dev)
+AWS Next.js MongoDB, Microsoft Azure
+
 ## 🐱‍👤 Hobbies / Interests 
 When I'm not coding I enjoy
 - Hiking 🥾

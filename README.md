@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Brian+and+I+am+a+Software+Dev!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Brian+and+I+am+a+Software+Developer!)](https://git.io/typing-svg)
 Hi there! I'm Brian, a fun loving, goofy, Fullstack Engineer with a passion for using technology to solve complex problems and create engaging user experiences. 
 
 ## 💻 Tech Stack

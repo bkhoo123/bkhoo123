@@ -20,7 +20,11 @@ Here are some of the technologies I have been working with:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ## 🌱 What I'm currently learning and studying:
 [![My Skills](https://skillicons.dev/icons?i=aws,nextjs,mongodb,azure)](https://skillicons.dev)
-AWS Next.js MongoDB, Microsoft Azure
+
+- AWS
+- Mongo DB
+- Next.js
+- Microsoft Azure
 
 ## 🐱‍👤 Hobbies / Interests 
 When I'm not coding I enjoy

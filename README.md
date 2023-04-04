@@ -35,6 +35,8 @@ When I'm not coding I enjoy
 - Reading 📔
 ## 💬 Get in touch
 - LinkedIn: https://www.linkedin.com/in/brian-khoo-4121b087/
+- Phone: (415) 819-7126
+- Email: khoo.brian123@gmail.com
 
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 ## 📈 Stats:

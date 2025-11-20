@@ -57,6 +57,6 @@ When I'm not coding I enjoy
 
 Thanks for visiting my profile! Feel free to reach out to me with any questions or just to chat.
 ## 📈 Stats:
-![Metrics](https://metrics.lecoq.io/bkhoo123)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bkhoo123&theme=github_dark)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bkhoo123&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
